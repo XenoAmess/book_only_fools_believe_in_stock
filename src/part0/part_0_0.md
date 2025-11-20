@@ -90,5 +90,5 @@
 
 若你读完此书后决定清空账户，不必感激我；若你读完此书后决定继续持有，也不必仇视我。因为**你的选择，与我无关，与你的认知自救有关**。愿我们都能在虚构的海洋中，守住自己那一叶真实的小舟。
 
-若你发现文中有错漏，那么这理所当然是作者K的疏失。请反馈至issue区 ，或邮箱xenoamess@gmail.com, 作者X会在空闲的时候适时处理。
+若你发现文中有错漏，那么这理所当然是作者K的疏失。请反馈至issue区https://github.com/XenoAmess/book_only_fools_believe_in_stock/issues，或邮箱xenoamess@gmail.com, 作者X会在空闲的时候适时处理。
 
